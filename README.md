@@ -2,7 +2,7 @@
   <img alt="Neufluence" src="./public/neu-circle.svg" width="60" />
 </p>
 <h1 align="center">
-  neufluence
+  neufluence-data
 </h1>
 
 https://neufluence.com
