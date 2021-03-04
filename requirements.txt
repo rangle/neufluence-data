@@ -1,0 +1,3 @@
+setuptools
+firebase_admin
+python-decouple

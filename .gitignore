@@ -1,0 +1,5 @@
+neufluence_data/.env
+neufluence_data/neufluence-404e714ebc5d.json
+venv/
+__pycache__/
+firestore_test.py
